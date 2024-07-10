@@ -10,6 +10,9 @@
 
 ![](https://github.com/Lalamax/Grade-Analysis---Data-Streaming/blob/main/APP%20test.gif)
 
+<img width="1655" alt="image" src="https://github.com/Lalamax/Grade-Analysis---Data-Streaming/assets/20906460/2b4e21e8-bd0d-453b-aeca-ca372663950b">
+
+
 
 
 
